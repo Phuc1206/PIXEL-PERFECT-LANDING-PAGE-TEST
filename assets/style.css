@@ -215,6 +215,7 @@ p {
 	justify-content: center;
 	padding: 12px;
 	margin-bottom: 16px;
+	border-radius: 8px;
 }
 .bundle-list {
 	display: flex;
